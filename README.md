@@ -1,1 +1,2 @@
 # UP221_ranierigina
+#I'm Gina, this is my first time trying coding. This will serve as my repository for UP-221 with Chris Giamarino. I hope to gain a working understanding of spatial data science to help complement my work in urban planning. My research focus is on climate resilience and adaptation, and I want to work on the relationship between urban growth and biodiversity. Most urban growth is projected to occur in middle and low income countries, which also tend to be in biodiversity-rich tropics. 
